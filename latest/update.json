@@ -1,7 +1,9 @@
 {
   "version": "1.0.0",
   "mandatory": false,
-  "url": "https://github.com/cansinalbayrak/version-tracking/releases/download/v.1.0.0/update.zip",
+  "manifestUrl": "https://raw.githubusercontent.com/.../latest/manifest.json",
+  "updateUrl": "https://github.com/cansinalbayrak/version-tracking/releases/download/v.1.0.0/update.zip",
   "notes": "Initial release"
 }
+
 
