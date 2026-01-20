@@ -1,10 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1.0",
   "mandatory": false,
   "manifestUrl": "https://raw.githubusercontent.com/cansinalbayrak/version-tracking/main/latest/manifest.json",
   "updateUrl": "https://github.com/cansinalbayrak/version-tracking/releases/download/v.1.0.0/update.zip",
   "notes": "Initial release"
 }
+
 
 
 
