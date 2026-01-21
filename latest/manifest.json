@@ -1,4 +1,6 @@
 {
+  "version": "1.0.0",
+  "generatedAt": "2026-01-21T11:38:14.765319Z",
   "files": [
     {
       "path": "App.config",
@@ -14,7 +16,7 @@
     },
     {
       "path": "Bilsoft.Grand.WinForms.dll",
-      "hash": "398E1CE0AC06237C17A238112741CF95AAA8A270FDD8C395509045A7E981C3ED"
+      "hash": "EED400DD74D01B380D9A1B68A0D569DFF69A6910049C9AC0ABBE55992D4AA02E"
     },
     {
       "path": "Bilsoft.Grand.WinForms.dll.config",
