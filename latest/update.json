@@ -3,8 +3,9 @@
   "mandatory": false,
   "manifestUrl": "https://raw.githubusercontent.com/cansinalbayrak/version-tracking/main/latest/manifest.json",
   "updateUrl": "https://github.com/cansinalbayrak/version-tracking/releases/download/v.1.0.0/update.zip",
-  "notes": "Release update test 1"
+  "notes": "Mandatory or optional update test"
 }
+
 
 
 
