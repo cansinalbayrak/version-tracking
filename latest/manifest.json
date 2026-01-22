@@ -427,6 +427,10 @@
       "hash": "CC576C5F64C98C757453B24BC1BBCD275C745DD8462085D20F9DEF513BC2C983"
     },
     {
+      "path": "libs/Dapper.dll",
+      "hash": "979236099305398C2216ADBB4A14948CF480A4EEF8E8ADE7C8C6A1C066506DE9"
+    },
+    {
       "path": "libs/DevExpress.BonusSkins.v25.2.dll",
       "hash": "0522B04A214DB4F6D3C55137C752B56972FD0CB8F4F0AFA9F06956E72507D337"
     },
@@ -1492,6 +1496,7 @@
     }
   ]
 }
+
 
 
 
