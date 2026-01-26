@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "generatedAt": "2026-01-23T14:29:34.0020233Z",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-26T07:16:08.8944192Z",
   "files": [
     {
       "path": "App.config",
@@ -16,7 +16,7 @@
     },
     {
       "path": "Bilsoft.Grand.WinForms.dll",
-      "hash": "24B770C5CC9A4CD573CFF2F405F88808D4EA727670D34DC0094B5BCC517C1F99"
+      "hash": "8843FD91B8FA5262F4939D696679DC235107FA98B347C999A7A3DF8B5C66E7A8"
     },
     {
       "path": "Bilsoft.Grand.WinForms.dll.config",
@@ -425,10 +425,6 @@
     {
       "path": "libs/comerr64.dll",
       "hash": "CC576C5F64C98C757453B24BC1BBCD275C745DD8462085D20F9DEF513BC2C983"
-    },
-    {
-      "path": "libs/Dapper.dll",
-      "hash": "979236099305398C2216ADBB4A14948CF480A4EEF8E8ADE7C8C6A1C066506DE9"
     },
     {
       "path": "libs/DevExpress.BonusSkins.v25.2.dll",
@@ -1496,4 +1492,3 @@
     }
   ]
 }
-
